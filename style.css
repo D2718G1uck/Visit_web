@@ -13,6 +13,16 @@ body {
   color: #C71585;
 }
 
+a {
+    color: #C71585; 
+   }
+   a:visited {
+    color: #C71585; 
+   } 
+   a:hover {
+    color: #FF00FF;
+   }
+
 header {
   background-color: #000000;
   padding: 20px;
