@@ -94,7 +94,8 @@ ul li {
 }
 
 .gallery img {
-  width: calc(33.33%);
+  width: calc(33.33% - 20px);
+  height: calc(33.33% - 20px);
   margin-right: 20px;
   margin-bottom: 20px;
 }
